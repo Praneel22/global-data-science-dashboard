@@ -12,6 +12,12 @@ Built using Tableau Public.
 
 ---
 
+## 🔗 Live Dashboard
+View here: https://public.tableau.com/app/profile/praneel.reddy.kanduri/viz/Global-Data-Science-Job-Market_twbx/Dashboard1?publish=yes
+
+## 📊 Tools Used
+- Tableau Public
+
 ## 🔍 Key Insights
 - Executive roles earn the highest salaries globally.
 - Hybrid roles offer higher average salaries compared to fully remote.
