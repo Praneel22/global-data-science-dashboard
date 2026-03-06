@@ -1,4 +1,4 @@
-# global-data-science-dashboard
+# global-data-science-dash
 Interactive Tableau dashboard analyzing global data science salaries by experience, country, and remote work type.
 # 🌍 Global Data Science Job Market Dashboard
 
