@@ -2,7 +2,7 @@
 Interactive Tableau dashboard analyzing global data science salaries by experience, country, and remote work type.
 # 🌍 Global Data Science Job Market Dashboard
 
-## 📊 Project Overview
+## 📊 Project overview
 
 This project analyzes global data science salaries based on:
 - Experience Level
