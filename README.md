@@ -30,7 +30,9 @@ Built using Tableau Public.
 - Salary Data Analysis
 
 ---
-
+## 🔗 Live Dashboard
+View here: https://public.tableau.com/app/profile/praneel.reddy.kanduri/viz/Global-Data-Science-Job-Market_twbx/Dashboard1?publish=yes
+---
 ## 📁 Files Included
 - Global-Data-Science-Job-Market.twbx (Tableau Dashboard File)
 
