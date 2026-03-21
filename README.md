@@ -46,4 +46,4 @@ View here: https://public.tableau.com/app/profile/praneel.reddy.kanduri/viz/Glob
 
 ## 🚀 Author
 Praneel Reddy  
-Aspiring Data Analyst | 2026 Graduate
+Aspiring Data Analyst 
